@@ -30,8 +30,10 @@ public class Hund {
 	}
 	
 	
-	
-	
+	public int convertDogAge(int humanAge) {
+
+		return humanAge*7;
+	}
 	
 
 }
